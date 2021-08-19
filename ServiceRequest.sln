@@ -28,6 +28,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application.UnitTest", "App
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{AAD4734C-546A-4999-A9CD-5FA06436920D}"
 	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\Coding Challenge - Full stack Engineer (Integration)[1] (1).pdf = ..\..\..\Downloads\Coding Challenge - Full stack Engineer (Integration)[1] (1).pdf
 		..\..\..\Documents\ServiceRequestCollection.postman_collection.json = ..\..\..\Documents\ServiceRequestCollection.postman_collection.json
 	EndProjectSection
 EndProject
