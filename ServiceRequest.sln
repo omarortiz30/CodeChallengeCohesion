@@ -26,6 +26,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{8D7B15E2-F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application.UnitTest", "Application.UnitTest\Application.UnitTest.csproj", "{32EA2D90-07CF-4D02-905A-4BE41D0A3D25}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{AAD4734C-546A-4999-A9CD-5FA06436920D}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Documents\ServiceRequestCollection.postman_collection.json = ..\..\..\Documents\ServiceRequestCollection.postman_collection.json
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
